@@ -1,0 +1,1854 @@
+{
+    "CZ": {
+        "zone_average_score": 0.801,
+        "documents": {
+            "Trichy CBCID Cr.No.02 of 2022 Suspetious drawing death.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/CZ/Trichy CBCID Cr.No.02 of 2022 Suspetious drawing death.pdf",
+                "document_score": 0.798,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1160.0044683822052,
+                        "contrast": 60.94598068227276,
+                        "noise": 0.26020656844552387,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.779
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 2316.6252920198467,
+                        "contrast": 74.22022037889487,
+                        "noise": 0.33070168633555447,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.828
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 1267.1813209778347,
+                        "contrast": 72.85289677873313,
+                        "noise": 0.32813559848328805,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.823
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 1011.0300628497561,
+                        "contrast": 57.10993910339034,
+                        "noise": 0.24191538825014308,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.764
+                    }
+                ]
+            },
+            "Karur Velayutham palayam PS.Cr.No.339 of 2011  Theft case  UN.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/CZ/Karur Velayutham palayam PS.Cr.No.339 of 2011  Theft case  UN.pdf",
+                "document_score": 0.751,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3884.504778650779,
+                        "contrast": 51.18705953163541,
+                        "noise": 0.2136539228901105,
+                        "skew_angle": 89.84430694580078,
+                        "quality_score": 0.742
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 4660.604632195092,
+                        "contrast": 56.1256813119695,
+                        "noise": 0.23704709947146702,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.76
+                    }
+                ]
+            },
+            "Ariyalur CBCID Cr.No.01-23 Suspetious death.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/CZ/Ariyalur CBCID Cr.No.01-23 Suspetious death.pdf",
+                "document_score": 0.831,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1265.949228821689,
+                        "contrast": 44.102741822255624,
+                        "noise": 0.18156715676781573,
+                        "skew_angle": 89.89230346679688,
+                        "quality_score": 0.715
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 2024.6952575893583,
+                        "contrast": 54.621167495036076,
+                        "noise": 0.2311567156314846,
+                        "skew_angle": 1.1584471464157104,
+                        "quality_score": 0.887
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 1698.679756922186,
+                        "contrast": 52.797409586361695,
+                        "noise": 0.22444280144132783,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.748
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 2239.1531848888753,
+                        "contrast": 57.10693876522636,
+                        "noise": 0.24404894314696993,
+                        "skew_angle": 1.0719373226165771,
+                        "quality_score": 0.898
+                    },
+                    {
+                        "page": 5,
+                        "sharpness": 1752.3162930471813,
+                        "contrast": 54.16352453962777,
+                        "noise": 0.23068507051978304,
+                        "skew_angle": 1.7957698106765747,
+                        "quality_score": 0.876
+                    },
+                    {
+                        "page": 6,
+                        "sharpness": 1540.3710886677309,
+                        "contrast": 47.47135635109513,
+                        "noise": 0.19729371962189643,
+                        "skew_angle": 1.0719372034072876,
+                        "quality_score": 0.862
+                    }
+                ]
+            },
+            "Nagapatinam Cr.No.01 of 2015 Double murder case Conviction.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/CZ/Nagapatinam Cr.No.01 of 2015 Double murder case Conviction.pdf",
+                "document_score": 0.842,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 13440.15681140795,
+                        "contrast": 44.81560502163331,
+                        "noise": 0.18251372462774712,
+                        "skew_angle": 0.27090001106262207,
+                        "quality_score": 0.864
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 25320.916136751493,
+                        "contrast": 75.83949605530248,
+                        "noise": 0.33425323805542434,
+                        "skew_angle": 1.177145004272461,
+                        "quality_score": 0.967
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 950.0506834004942,
+                        "contrast": 38.513542644966,
+                        "noise": 0.16149175056706747,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.694
+                    }
+                ]
+            },
+            "Thiruvarur CBCID Cr.No.01 of 2015 Women missing Conviction.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/CZ/Thiruvarur CBCID Cr.No.01 of 2015 Women missing Conviction.pdf",
+                "document_score": 0.783,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 4329.755027024962,
+                        "contrast": 51.238664201958024,
+                        "noise": 0.2164221574205248,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.892
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 3751.090549890894,
+                        "contrast": 66.05345357908031,
+                        "noise": 0.2917844185329975,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.798
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 451.0141649578912,
+                        "contrast": 28.81010377491163,
+                        "noise": 0.11542879145569654,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.658
+                    }
+                ]
+            }
+        }
+    },
+    "NZ": {
+        "zone_average_score": 0.789,
+        "documents": {
+            "CBCID,Vellore 2022 Accidental case.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/NZ/CBCID,Vellore 2022 Accidental case.pdf",
+                "document_score": 0.85,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2332.6115978311013,
+                        "contrast": 50.4452202086819,
+                        "noise": 0.2088089861198013,
+                        "skew_angle": 1.4995471239089966,
+                        "quality_score": 0.867
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 3516.2414379836914,
+                        "contrast": 65.13816528616685,
+                        "noise": 0.28036795776457557,
+                        "skew_angle": 87.99807739257812,
+                        "quality_score": 0.794
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 3104.84688818388,
+                        "contrast": 55.085116749842356,
+                        "noise": 0.23026418502458135,
+                        "skew_angle": 1.1663397550582886,
+                        "quality_score": 0.889
+                    }
+                ]
+            },
+            "Metro 2022 Land Cheating case.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/NZ/Metro 2022 Land Cheating case.pdf",
+                "document_score": 0.794,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2973.6644720971976,
+                        "contrast": 54.95279485525416,
+                        "noise": 0.22975645749440912,
+                        "skew_angle": 89.97290802001953,
+                        "quality_score": 0.756
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 4344.148665136058,
+                        "contrast": 64.53134157802155,
+                        "noise": 0.2771011427588521,
+                        "skew_angle": 0.10561423003673553,
+                        "quality_score": 0.94
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 4779.267377617518,
+                        "contrast": 66.48410330449576,
+                        "noise": 0.2876114731249763,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.799
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 5166.501844969198,
+                        "contrast": 64.3062115273315,
+                        "noise": 0.27649378061876284,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.791
+                    },
+                    {
+                        "page": 5,
+                        "sharpness": 3859.819398653539,
+                        "contrast": 65.60890501942896,
+                        "noise": 0.28214493611808594,
+                        "skew_angle": 89.96007537841797,
+                        "quality_score": 0.796
+                    },
+                    {
+                        "page": 6,
+                        "sharpness": 1222.144605951241,
+                        "contrast": 35.182684653641694,
+                        "noise": 0.1420594177566349,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.682
+                    }
+                ]
+            },
+            "Vellore 2020 Accidental case.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/NZ/Vellore 2020 Accidental case.pdf",
+                "document_score": 0.742,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2996.098172955856,
+                        "contrast": 52.49387522359172,
+                        "noise": 0.22016998984018957,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.747
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 5164.345634594121,
+                        "contrast": 65.84729928067745,
+                        "noise": 0.2847636746920125,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.797
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 4692.049486836699,
+                        "contrast": 63.63917877624198,
+                        "noise": 0.27381951376233704,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.789
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 495.3361702949025,
+                        "contrast": 24.129318253918598,
+                        "noise": 0.09622948278154587,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.633
+                    }
+                ]
+            },
+            "Hanging case.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/NZ/Hanging case.pdf",
+                "document_score": 0.681,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 928.356858970139,
+                        "contrast": 32.97994754746327,
+                        "noise": 0.1377917025421408,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.674
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 1155.7515965027158,
+                        "contrast": 36.91723506320013,
+                        "noise": 0.1552054352836681,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.688
+                    }
+                ]
+            },
+            "Metro 2018 Murder case.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/NZ/Metro 2018 Murder case.pdf",
+                "document_score": 0.874,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 963.2323514555144,
+                        "contrast": 52.60145472177657,
+                        "noise": 0.22071008408831047,
+                        "skew_angle": 1.0719373226165771,
+                        "quality_score": 0.881
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 1775.6187376668333,
+                        "contrast": 64.63275058963337,
+                        "noise": 0.28365906500981686,
+                        "skew_angle": 1.7844161987304688,
+                        "quality_score": 0.916
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 291.87881517485175,
+                        "contrast": 37.5498676781556,
+                        "noise": 0.15336967627016473,
+                        "skew_angle": 0.9552602171897888,
+                        "quality_score": 0.826
+                    }
+                ]
+            },
+            "Hqr's 2011 Forgery of DOC case.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/NZ/Hqr's 2011 Forgery of DOC case.pdf",
+                "document_score": 0.826,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3073.285771368413,
+                        "contrast": 40.38038386603988,
+                        "noise": 0.16455168232967424,
+                        "skew_angle": 0.5077202320098877,
+                        "quality_score": 0.844
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 4996.364183482563,
+                        "contrast": 68.65265647447711,
+                        "noise": 0.3001184964814148,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.807
+                    }
+                ]
+            },
+            "OCU I 2022 Coustady death case.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/NZ/OCU I 2022 Coustady death case.pdf",
+                "document_score": 0.754,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1168.8178695838274,
+                        "contrast": 36.69000964238788,
+                        "noise": 0.15235577055616673,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.688
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 1876.7188111043504,
+                        "contrast": 45.93912151054779,
+                        "noise": 0.19462589381454926,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.872
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 1529.9119640976728,
+                        "contrast": 40.224426720053124,
+                        "noise": 0.16976947020708846,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.701
+                    }
+                ]
+            }
+        }
+    },
+    "WZ": {
+        "zone_average_score": 0.781,
+        "documents": {
+            "Edappadi P. S Cr No. 213-2007, U.s 174Cr. P. C @ 304(A) IPC Accused was died case was charge abated on 06.08.2021.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Edappadi P. S Cr No. 213-2007, U.s 174Cr. P. C @ 304(A) IPC Accused was died case was charge abated on 06.08.2021.pdf",
+                "document_score": 0.8,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 4858.136755655822,
+                        "contrast": 42.731600489216376,
+                        "noise": 0.17485454193770475,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.71
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 4111.29465977137,
+                        "contrast": 54.43040368435617,
+                        "noise": 0.22798758382664233,
+                        "skew_angle": 0.8641241788864136,
+                        "quality_score": 0.891
+                    }
+                ]
+            },
+            "DPI Cr.No.299-2012 FIR-Acq.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/DPI Cr.No.299-2012 FIR-Acq.pdf",
+                "document_score": 0.866,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1094.9800812218652,
+                        "contrast": 38.4678759017326,
+                        "noise": 0.15925877395478172,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.844
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 1079.7988348270137,
+                        "contrast": 50.51432667010452,
+                        "noise": 0.21710325517458984,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.889
+                    }
+                ]
+            },
+            "TPR 2021  suicide case.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/TPR 2021  suicide case.pdf",
+                "document_score": 0.825,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3150.2265139684314,
+                        "contrast": 48.14391191186844,
+                        "noise": 0.19804236857494412,
+                        "skew_angle": 0.6383666396141052,
+                        "quality_score": 0.871
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 5302.20878128825,
+                        "contrast": 63.77757359064195,
+                        "noise": 0.27266994607976486,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.939
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 3975.0376643208383,
+                        "contrast": 53.83059290276185,
+                        "noise": 0.22405801272837741,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.902
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 380.38635726734236,
+                        "contrast": 20.29517117040909,
+                        "noise": 0.08026539459882988,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.587
+                    }
+                ]
+            },
+            "Salem Cbcid Cr. No. 01-2016, U.s 406, 420, 506(II) IPC FAD on 28.06.2016.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Salem Cbcid Cr. No. 01-2016, U.s 406, 420, 506(II) IPC FAD on 28.06.2016.pdf",
+                "document_score": 0.829,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3272.0805370778985,
+                        "contrast": 47.4072624542065,
+                        "noise": 0.19489493251382523,
+                        "skew_angle": 0.33383908867836,
+                        "quality_score": 0.873
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 5026.902669617956,
+                        "contrast": 65.08806019850532,
+                        "noise": 0.2829365330122141,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.794
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 6850.555737671724,
+                        "contrast": 68.31938458682995,
+                        "noise": 0.2987323298928312,
+                        "skew_angle": 1.154003381729126,
+                        "quality_score": 0.939
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 6552.057858047585,
+                        "contrast": 69.11202323618139,
+                        "noise": 0.3028064163749552,
+                        "skew_angle": 89.74967956542969,
+                        "quality_score": 0.809
+                    },
+                    {
+                        "page": 5,
+                        "sharpness": 2664.1723695742153,
+                        "contrast": 47.57175080313819,
+                        "noise": 0.1958516262261612,
+                        "skew_angle": 84.79511260986328,
+                        "quality_score": 0.728
+                    }
+                ]
+            },
+            "KGI.CBCID.Cr.No.01_2022 FAD.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/KGI.CBCID.Cr.No.01_2022 FAD.pdf",
+                "document_score": 0.822,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2606.40235317855,
+                        "contrast": 48.4529452794626,
+                        "noise": 0.2023931155840137,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.882
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 4002.581070779551,
+                        "contrast": 64.52208951543096,
+                        "noise": 0.27991144779005467,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.942
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 3760.0433679019425,
+                        "contrast": 59.35627192062908,
+                        "noise": 0.2538171188324941,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.773
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 1321.923662213027,
+                        "contrast": 38.002246230252744,
+                        "noise": 0.15502224173083975,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.693
+                    }
+                ]
+            },
+            "Erode CBCID Cr.No.02-2022 Hanging \u201cFurther action dropped\u201d.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Erode CBCID Cr.No.02-2022 Hanging \u201cFurther action dropped\u201d.pdf",
+                "document_score": 0.739,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2796.714750248462,
+                        "contrast": 41.652468235011646,
+                        "noise": 0.17116597720855475,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.706
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 5014.246024755263,
+                        "contrast": 57.043818533852495,
+                        "noise": 0.24247984282282972,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.764
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 4358.365027225026,
+                        "contrast": 52.26712389006063,
+                        "noise": 0.21940323803973127,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.746
+                    }
+                ]
+            },
+            "NKL CBCID CR. NO. 2_2015 - conviction.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/NKL CBCID CR. NO. 2_2015 - conviction.pdf",
+                "document_score": 0.739,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 4822.17168395535,
+                        "contrast": 47.46413650808177,
+                        "noise": 0.1972826209565872,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.728
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 9780.840530915706,
+                        "contrast": 53.36008946209432,
+                        "noise": 0.2235263474319658,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.75
+                    }
+                ]
+            },
+            "4. OCU CBCID Cr. No. 01-2017 Criminal trespass.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/4. OCU CBCID Cr. No. 01-2017 Criminal trespass.pdf",
+                "document_score": 0.867,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2440.3858717948547,
+                        "contrast": 48.800923342118274,
+                        "noise": 0.20143819257827564,
+                        "skew_angle": 0.15336093306541443,
+                        "quality_score": 0.881
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 3687.4144208245107,
+                        "contrast": 60.08513676579131,
+                        "noise": 0.25543930476616894,
+                        "skew_angle": 0.11136190593242645,
+                        "quality_score": 0.924
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 3640.9852042773864,
+                        "contrast": 61.985001455079065,
+                        "noise": 0.265406161802383,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.932
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 3503.894488029702,
+                        "contrast": 61.53168681403591,
+                        "noise": 0.2625115457742321,
+                        "skew_angle": 89.83980560302734,
+                        "quality_score": 0.781
+                    },
+                    {
+                        "page": 5,
+                        "sharpness": 1068.7251391292964,
+                        "contrast": 33.595753221755885,
+                        "noise": 0.13494982359783878,
+                        "skew_angle": 0.7645779848098755,
+                        "quality_score": 0.815
+                    }
+                ]
+            },
+            "2. OCU CBCID Cr. No. 01-2015 alleged misappropriation of funds.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/2. OCU CBCID Cr. No. 01-2015 alleged misappropriation of funds.pdf",
+                "document_score": 0.741,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2942.047408240236,
+                        "contrast": 45.59365646575652,
+                        "noise": 0.18826913604317477,
+                        "skew_angle": 0.5279408693313599,
+                        "quality_score": 0.863
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 2385.7148672123476,
+                        "contrast": 51.717612625099285,
+                        "noise": 0.22005606932932825,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.744
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 1093.9718257442933,
+                        "contrast": 49.79893326794654,
+                        "noise": 0.2136493167010563,
+                        "skew_angle": 0.24965323507785797,
+                        "quality_score": 0.883
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 972.674179660147,
+                        "contrast": 43.93620012554291,
+                        "noise": 0.18587253750887603,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.715
+                    },
+                    {
+                        "page": 5,
+                        "sharpness": 797.9381870762022,
+                        "contrast": 38.82723633528877,
+                        "noise": 0.161593377117734,
+                        "skew_angle": 0.5746625661849976,
+                        "quality_score": 0.837
+                    },
+                    {
+                        "page": 6,
+                        "sharpness": 795.268647802931,
+                        "contrast": 35.84848077548851,
+                        "noise": 0.14857411273467955,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.684
+                    },
+                    {
+                        "page": 7,
+                        "sharpness": 914.6015062719044,
+                        "contrast": 36.26201010204613,
+                        "noise": 0.15004871401628203,
+                        "skew_angle": 88.97493743896484,
+                        "quality_score": 0.686
+                    },
+                    {
+                        "page": 8,
+                        "sharpness": 731.8875675787367,
+                        "contrast": 31.54789374289326,
+                        "noise": 0.12956215819161185,
+                        "skew_angle": 88.58454895019531,
+                        "quality_score": 0.668
+                    },
+                    {
+                        "page": 9,
+                        "sharpness": 479.16718908327323,
+                        "contrast": 30.35733667882551,
+                        "noise": 0.12445451875438253,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.664
+                    },
+                    {
+                        "page": 10,
+                        "sharpness": 483.24575757994353,
+                        "contrast": 30.363133879874553,
+                        "noise": 0.12337899952332586,
+                        "skew_angle": 88.57581329345703,
+                        "quality_score": 0.664
+                    }
+                ]
+            },
+            "NKL CBCID CR. NO. 1_2009 - conviction.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/NKL CBCID CR. NO. 1_2009 - conviction.pdf",
+                "document_score": 0.832,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3121.499966664473,
+                        "contrast": 41.89822089043393,
+                        "noise": 0.17159349304574048,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.707
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 6588.13347304418,
+                        "contrast": 61.79980419432562,
+                        "noise": 0.262811019255697,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.782
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 3800.3743466031624,
+                        "contrast": 72.17043478024569,
+                        "noise": 0.3165694557030692,
+                        "skew_angle": 4.335949897766113,
+                        "quality_score": 0.906
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 3436.3711902099735,
+                        "contrast": 62.65426927932747,
+                        "noise": 0.26624869569273196,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.935
+                    }
+                ]
+            },
+            "DPI Cr.No.305-2012 FIR -MF.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/DPI Cr.No.305-2012 FIR -MF.pdf",
+                "document_score": 0.715,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1061.0004155061972,
+                        "contrast": 38.973483066588486,
+                        "noise": 0.1619755975637037,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.696
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 1344.0555855881141,
+                        "contrast": 48.98886480198812,
+                        "noise": 0.2069233924623363,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.734
+                    }
+                ]
+            },
+            "Salem cbcid Cr. No. 01-2019, U.s 174 Cr. P. C, @ 302 IPC.  MF on 07.06.2021.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Salem cbcid Cr. No. 01-2019, U.s 174 Cr. P. C, @ 302 IPC.  MF on 07.06.2021.pdf",
+                "document_score": 0.811,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3216.0856872425074,
+                        "contrast": 43.145799505274496,
+                        "noise": 0.17605932563205767,
+                        "skew_angle": 0.10455421358346939,
+                        "quality_score": 0.86
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 5069.565426526496,
+                        "contrast": 57.271276797135634,
+                        "noise": 0.24100246176231052,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.765
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 5598.552642659406,
+                        "contrast": 59.20468657232927,
+                        "noise": 0.25058256647554006,
+                        "skew_angle": 88.50971221923828,
+                        "quality_score": 0.772
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 2596.2527126099644,
+                        "contrast": 39.43083649068048,
+                        "noise": 0.15975667028402982,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.848
+                    }
+                ]
+            },
+            "DPI Cr.No.294-2012 FIR-MF.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/DPI Cr.No.294-2012 FIR-MF.pdf",
+                "document_score": 0.845,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1216.0107984192252,
+                        "contrast": 36.25236034007378,
+                        "noise": 0.1491203753235391,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.836
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 1181.3633402257979,
+                        "contrast": 41.16543404873907,
+                        "noise": 0.17417021990951717,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.854
+                    }
+                ]
+            },
+            "KGI.CBCID.Cr no.01_2012 - Acq..pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/KGI.CBCID.Cr no.01_2012 - Acq..pdf",
+                "document_score": 0.752,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3040.337566941306,
+                        "contrast": 44.065159077300436,
+                        "noise": 0.18364604697392742,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.715
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 3963.6324295558243,
+                        "contrast": 63.46752673443241,
+                        "noise": 0.28352356184747524,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.788
+                    }
+                ]
+            },
+            "Salem Cbcid Cr No. 01-2021, U.s 420 IPC.  Acquittal on 12.04.2024.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Salem Cbcid Cr No. 01-2021, U.s 420 IPC.  Acquittal on 12.04.2024.pdf",
+                "document_score": 0.77,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2981.6537482185345,
+                        "contrast": 43.47319610652498,
+                        "noise": 0.17753392718530278,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.713
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 5283.557977466385,
+                        "contrast": 57.74389626566102,
+                        "noise": 0.2438587573388691,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.767
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 4240.111168475903,
+                        "contrast": 59.35057500485976,
+                        "noise": 0.2530114421945979,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.773
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 3561.753841213971,
+                        "contrast": 52.47408212621413,
+                        "noise": 0.22070783827794396,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.747
+                    },
+                    {
+                        "page": 5,
+                        "sharpness": 4743.544128733865,
+                        "contrast": 61.54498921924825,
+                        "noise": 0.26351056239216114,
+                        "skew_angle": 3.301865577697754,
+                        "quality_score": 0.881
+                    },
+                    {
+                        "page": 6,
+                        "sharpness": 3419.1458564412005,
+                        "contrast": 50.7806189420408,
+                        "noise": 0.21051840400715563,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.74
+                    }
+                ]
+            },
+            "Kavundapadi PS Cr.No.354-2006 Accident case Un detected.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Kavundapadi PS Cr.No.354-2006 Accident case Un detected.pdf",
+                "document_score": 0.806,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3100.044373179644,
+                        "contrast": 43.35754218050266,
+                        "noise": 0.17978632810618012,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.863
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 4155.090386386215,
+                        "contrast": 53.11813703907268,
+                        "noise": 0.2235429548454531,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.749
+                    }
+                ]
+            },
+            "DPI Cr.No.307-2012-FIR-MF.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/DPI Cr.No.307-2012-FIR-MF.pdf",
+                "document_score": 0.718,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1039.560286437627,
+                        "contrast": 38.19357959729744,
+                        "noise": 0.15753657686420863,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.693
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 884.6063693648648,
+                        "contrast": 51.114766315083344,
+                        "noise": 0.21726454442924123,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.742
+                    }
+                ]
+            },
+            "TPR 2020 Cheating case.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/TPR 2020 Cheating case.pdf",
+                "document_score": 0.783,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1530.3501318729,
+                        "contrast": 38.8494262050773,
+                        "noise": 0.1578868669310221,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.696
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 2940.670250822449,
+                        "contrast": 52.52992208913525,
+                        "noise": 0.2191491761545041,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.747
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 2583.041743646541,
+                        "contrast": 49.74872258245504,
+                        "noise": 0.20692722191658122,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.737
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 2889.736101087204,
+                        "contrast": 55.927614761154864,
+                        "noise": 0.2351832200168162,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.76
+                    },
+                    {
+                        "page": 5,
+                        "sharpness": 2469.2547476693076,
+                        "contrast": 47.783331018094906,
+                        "noise": 0.1976165912192771,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.729
+                    },
+                    {
+                        "page": 6,
+                        "sharpness": 1437.6870300299588,
+                        "contrast": 39.40693775319115,
+                        "noise": 0.16025376674911002,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.698
+                    },
+                    {
+                        "page": 7,
+                        "sharpness": 3123.393237127217,
+                        "contrast": 55.386140162884935,
+                        "noise": 0.23416460442909295,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.908
+                    },
+                    {
+                        "page": 8,
+                        "sharpness": 1800.298090955297,
+                        "contrast": 51.267717203427914,
+                        "noise": 0.2128016129213225,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.742
+                    },
+                    {
+                        "page": 9,
+                        "sharpness": 4523.707816069569,
+                        "contrast": 73.50086412279161,
+                        "noise": 0.32614054447119784,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.976
+                    },
+                    {
+                        "page": 10,
+                        "sharpness": 3301.2250089068193,
+                        "contrast": 69.62486616839497,
+                        "noise": 0.3039203948306022,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.811
+                    },
+                    {
+                        "page": 11,
+                        "sharpness": 3507.0070201718177,
+                        "contrast": 67.69071008952464,
+                        "noise": 0.2933097593590715,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.804
+                    }
+                ]
+            },
+            "DPI Cr.No.01-2015-FIR-Acq.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/DPI Cr.No.01-2015-FIR-Acq.pdf",
+                "document_score": 0.742,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1324.4558987247974,
+                        "contrast": 40.11085896974917,
+                        "noise": 0.1657716536155148,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.7
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 1565.1236944887744,
+                        "contrast": 62.66778549824062,
+                        "noise": 0.2808799970127265,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.785
+                    }
+                ]
+            },
+            "Nilgiri 2008 case of illegal quarrying..pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Nilgiri 2008 case of illegal quarrying..pdf",
+                "document_score": 0.774,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2577.454745754566,
+                        "contrast": 41.47470497542981,
+                        "noise": 0.1698315183866962,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.706
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 2497.5000782388133,
+                        "contrast": 41.97542054222484,
+                        "noise": 0.17320956673939736,
+                        "skew_angle": 1.1264573335647583,
+                        "quality_score": 0.841
+                    }
+                ]
+            },
+            "DPI Cr.No.300-2012 FIR-Acq.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/DPI Cr.No.300-2012 FIR-Acq.pdf",
+                "document_score": 0.706,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1051.6640441820387,
+                        "contrast": 36.89857253469681,
+                        "noise": 0.15393033195496408,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.688
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 1118.8575794249414,
+                        "contrast": 46.432915833300584,
+                        "noise": 0.19982295637085298,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.724
+                    }
+                ]
+            },
+            "TPR 2020 Criminal trespass.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/TPR 2020 Criminal trespass.pdf",
+                "document_score": 0.767,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 419.3711560313324,
+                        "contrast": 33.0484585532835,
+                        "noise": 0.13453798627529226,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.674
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 4843.287346264176,
+                        "contrast": 59.59445460478119,
+                        "noise": 0.25340165411858734,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.773
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 2042.0567852354893,
+                        "contrast": 39.09755625158339,
+                        "noise": 0.15902465024209866,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.847
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 1972.8826257360786,
+                        "contrast": 40.25517477440013,
+                        "noise": 0.16463277401064028,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.851
+                    },
+                    {
+                        "page": 5,
+                        "sharpness": 2795.399156775868,
+                        "contrast": 48.416225295565745,
+                        "noise": 0.20204041641356627,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.732
+                    },
+                    {
+                        "page": 6,
+                        "sharpness": 1111.4473935561846,
+                        "contrast": 27.92634631883679,
+                        "noise": 0.11213959812269225,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.805
+                    },
+                    {
+                        "page": 7,
+                        "sharpness": 205.7034676342279,
+                        "contrast": 35.997902720172064,
+                        "noise": 0.2681388004865637,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.685
+                    }
+                ]
+            },
+            "Erode CBCID Cr.No.01-2022 Hanging \u201cFurther action dropped\u201d.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Erode CBCID Cr.No.01-2022 Hanging \u201cFurther action dropped\u201d.pdf",
+                "document_score": 0.769,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2869.3645027119583,
+                        "contrast": 49.6967322893306,
+                        "noise": 0.2054906940214445,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.736
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 4460.5116575079055,
+                        "contrast": 63.9878200071804,
+                        "noise": 0.2735659768269311,
+                        "skew_angle": 89.6287612915039,
+                        "quality_score": 0.79
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 3739.873585220409,
+                        "contrast": 61.48212302752737,
+                        "noise": 0.2617920742487439,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.781
+                    }
+                ]
+            },
+            "KGI.CBCID.Cr no.01_2015 Con..pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/KGI.CBCID.Cr no.01_2015 Con..pdf",
+                "document_score": 0.769,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3959.6468523011345,
+                        "contrast": 50.21625995373178,
+                        "noise": 0.21304033809530526,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.738
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 7172.122988841547,
+                        "contrast": 66.69281072297588,
+                        "noise": 0.295607370679563,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.8
+                    }
+                ]
+            },
+            "Erode CBCID Cr.No.01-2021 Accident case Un detected.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Erode CBCID Cr.No.01-2021 Accident case Un detected.pdf",
+                "document_score": 0.808,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2532.6058433384237,
+                        "contrast": 48.930504361233886,
+                        "noise": 0.20242062566737717,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.733
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 5001.6158197692885,
+                        "contrast": 63.1481356243398,
+                        "noise": 0.2701562554485823,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.787
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 3903.7445444418577,
+                        "contrast": 54.77750332596993,
+                        "noise": 0.2295027212676293,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.905
+                    }
+                ]
+            },
+            "Nilgiri 2001 Dowry case.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Nilgiri 2001 Dowry case.pdf",
+                "document_score": 0.775,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1711.863002389908,
+                        "contrast": 37.99146699784573,
+                        "noise": 0.15520637547619506,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.692
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 2350.9501216290887,
+                        "contrast": 44.75116199031578,
+                        "noise": 0.18478668491742423,
+                        "skew_angle": 0.6501911282539368,
+                        "quality_score": 0.858
+                    }
+                ]
+            },
+            "DPI Cr.No.306-2012 FIR -MF.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/DPI Cr.No.306-2012 FIR -MF.pdf",
+                "document_score": 0.692,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1001.999303255678,
+                        "contrast": 35.62012256737107,
+                        "noise": 0.1467964618271327,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.684
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 968.4101773354724,
+                        "contrast": 40.25487250219059,
+                        "noise": 0.16774699007768207,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.701
+                    }
+                ]
+            },
+            "Erode CBCID Cr.No.01-2004 Cheating acquittal.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Erode CBCID Cr.No.01-2004 Cheating acquittal.pdf",
+                "document_score": 0.782,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 4005.146903105092,
+                        "contrast": 59.25479256339638,
+                        "noise": 0.25429726042576106,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.772
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 5234.215404522853,
+                        "contrast": 64.19130779164085,
+                        "noise": 0.2772057187806207,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.791
+                    }
+                ]
+            },
+            "OCU CBCID Cr. No. 01-2014 property disputed.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/OCU CBCID Cr. No. 01-2014 property disputed.pdf",
+                "document_score": 0.836,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2632.206359013859,
+                        "contrast": 46.72105416509993,
+                        "noise": 0.1945335988510285,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.725
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 5370.907254530384,
+                        "contrast": 51.52541142721281,
+                        "noise": 0.21539320842835155,
+                        "skew_angle": 2.680788040161133,
+                        "quality_score": 0.853
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 4108.974770885121,
+                        "contrast": 61.22530714186643,
+                        "noise": 0.2641664946525152,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.93
+                    }
+                ]
+            },
+            "Cuddalore CBCID.Cr no.01_2010. Acq..pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Cuddalore CBCID.Cr no.01_2010. Acq..pdf",
+                "document_score": 0.802,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3314.844664447941,
+                        "contrast": 43.715260193812064,
+                        "noise": 0.18417294606814358,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.864
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 2906.2795182600703,
+                        "contrast": 50.331967617237176,
+                        "noise": 0.21727553723804868,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.739
+                    }
+                ]
+            },
+            "DPI Cr.No.301-2012-FIR-Acq.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/DPI Cr.No.301-2012-FIR-Acq.pdf",
+                "document_score": 0.778,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1523.1164089757267,
+                        "contrast": 37.561150620733706,
+                        "noise": 0.15437698674328607,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.841
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 1605.5768221685032,
+                        "contrast": 43.99819793640359,
+                        "noise": 0.1841841694466952,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.715
+                    }
+                ]
+            },
+            "DPI Cr.No.304-2012 FIR-MF.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/DPI Cr.No.304-2012 FIR-MF.pdf",
+                "document_score": 0.797,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1074.0562073046403,
+                        "contrast": 39.60948758612544,
+                        "noise": 0.16459962051447896,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.699
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 1128.333766869392,
+                        "contrast": 52.035487677237434,
+                        "noise": 0.22588532798368027,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.895
+                    }
+                ]
+            },
+            "DPI Cr.No.313-2012 FIR-FAD.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/DPI Cr.No.313-2012 FIR-FAD.pdf",
+                "document_score": 0.725,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1134.0015046035905,
+                        "contrast": 34.77290138849333,
+                        "noise": 0.1430785681526851,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.83
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 414.2906123634522,
+                        "contrast": 22.73280428145676,
+                        "noise": 0.0925467434663719,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.62
+                    }
+                ]
+            },
+            "NKL CBCID CR. NO. 1_2000 - Conviction.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/NKL CBCID CR. NO. 1_2000 - Conviction.pdf",
+                "document_score": 0.842,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 906.9627539209256,
+                        "contrast": 46.63053368592534,
+                        "noise": 0.19900289421081455,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.725
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 7459.629980668833,
+                        "contrast": 73.62457702325014,
+                        "noise": 0.3276309199731474,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.826
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 988.909270044027,
+                        "contrast": 52.20842224773922,
+                        "noise": 0.22004507648967225,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.896
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 1148.4402669007304,
+                        "contrast": 58.68823278853273,
+                        "noise": 0.2530361421043206,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.92
+                    }
+                ]
+            },
+            "TPR 2017 Coustody death case.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/TPR 2017 Coustody death case.pdf",
+                "document_score": 0.706,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 765.1422723033311,
+                        "contrast": 34.11351606709797,
+                        "noise": 0.1381138879741996,
+                        "skew_angle": 89.33489990234375,
+                        "quality_score": 0.678
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 3695.463157969462,
+                        "contrast": 56.173055435281455,
+                        "noise": 0.23740373064621978,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.761
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 1455.9990268791255,
+                        "contrast": 34.43563973675449,
+                        "noise": 0.13825230807969643,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.679
+                    }
+                ]
+            },
+            "NKL CBCID CR. NO. 3_2020 Acquittal.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/NKL CBCID CR. NO. 3_2020 Acquittal.pdf",
+                "document_score": 0.757,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2628.9432017805875,
+                        "contrast": 49.60530324580995,
+                        "noise": 0.20539572642187603,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.736
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 5386.981806292193,
+                        "contrast": 64.22106718706539,
+                        "noise": 0.27623240246462377,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.791
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 2886.146072779029,
+                        "contrast": 52.12217236657517,
+                        "noise": 0.2174685332429493,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.745
+                    }
+                ]
+            },
+            "DPI Cr.No.308-2012 FIR -MF.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/DPI Cr.No.308-2012 FIR -MF.pdf",
+                "document_score": 0.756,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 1015.7337904341508,
+                        "contrast": 30.993104672889647,
+                        "noise": 0.125932809633734,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.666
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 962.1622653750321,
+                        "contrast": 38.68022722856037,
+                        "noise": 0.1608734475187122,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.845
+                    }
+                ]
+            },
+            "Salem Cbcid Cr No. 01-2017 U.s 147, 174(a), 150(1)(a), 151 Railway act &147 IPC Acquittal on 24.02.2021.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/Salem Cbcid Cr No. 01-2017 U.s 147, 174(a), 150(1)(a), 151 Railway act &147 IPC Acquittal on 24.02.2021.pdf",
+                "document_score": 0.794,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3133.013649753374,
+                        "contrast": 47.57787747753815,
+                        "noise": 0.19598557882941572,
+                        "skew_angle": 89.14701843261719,
+                        "quality_score": 0.728
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 5699.6824875412885,
+                        "contrast": 63.68703428668598,
+                        "noise": 0.27424074102436347,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.789
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 6458.095949304859,
+                        "contrast": 67.40559200313402,
+                        "noise": 0.2941610001872444,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.803
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 3136.622459572406,
+                        "contrast": 44.28338671075459,
+                        "noise": 0.18112457053382242,
+                        "skew_angle": 0.6908717155456543,
+                        "quality_score": 0.856
+                    }
+                ]
+            },
+            "3. OCU CB CID Cr. No. 02-2016 Cheating.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/3. OCU CB CID Cr. No. 02-2016 Cheating.pdf",
+                "document_score": 0.851,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2652.1981511433773,
+                        "contrast": 50.24823073572206,
+                        "noise": 0.20815282914905556,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.738
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 4390.5341657888885,
+                        "contrast": 65.62661070757154,
+                        "noise": 0.2845361814967941,
+                        "skew_angle": 1.0719372034072876,
+                        "quality_score": 0.93
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 3450.528814133278,
+                        "contrast": 56.76354735379246,
+                        "noise": 0.23918373438448257,
+                        "skew_angle": 1.879497766494751,
+                        "quality_score": 0.885
+                    }
+                ]
+            },
+            "NKL CBCID CR. NO. 1_2010 - conviction.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/NKL CBCID CR. NO. 1_2010 - conviction.pdf",
+                "document_score": 0.775,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 5720.076521182371,
+                        "contrast": 58.96711368224822,
+                        "noise": 0.25777108172221663,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.771
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 4185.637355354581,
+                        "contrast": 53.96802039724346,
+                        "noise": 0.233641243178154,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.752
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 6997.048139063545,
+                        "contrast": 66.13917905426244,
+                        "noise": 0.2887368779971774,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.798
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 4264.644863070881,
+                        "contrast": 60.44814451234846,
+                        "noise": 0.2609797148663346,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.777
+                    }
+                ]
+            },
+            "TPR 2018 criminal breach of trust..pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/TPR 2018 criminal breach of trust..pdf",
+                "document_score": 0.743,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2876.1128434975017,
+                        "contrast": 48.68438931611569,
+                        "noise": 0.2011607295385643,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.733
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 4882.48048306814,
+                        "contrast": 66.06154266058525,
+                        "noise": 0.2847751357694361,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.798
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 3943.564917636632,
+                        "contrast": 59.78414588647974,
+                        "noise": 0.2545031698047155,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.774
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 613.9604326468583,
+                        "contrast": 31.067606207836278,
+                        "noise": 0.12512472317678053,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.667
+                    }
+                ]
+            },
+            "KGI.CBCID.Cr.No.01_2019 FAD.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/WZ/KGI.CBCID.Cr.No.01_2019 FAD.pdf",
+                "document_score": 0.793,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 2609.3722673639572,
+                        "contrast": 51.91541850449232,
+                        "noise": 0.21608979129815103,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.745
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 3161.8678004080825,
+                        "contrast": 63.567646444233326,
+                        "noise": 0.2743135635517627,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.938
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 2559.880912343077,
+                        "contrast": 59.72519003011908,
+                        "noise": 0.2553364090820417,
+                        "skew_angle": 1.3019527196884155,
+                        "quality_score": 0.904
+                    },
+                    {
+                        "page": 4,
+                        "sharpness": 161.528559928484,
+                        "contrast": 20.287022341727802,
+                        "noise": 0.08053582486312638,
+                        "skew_angle": 89.1373291015625,
+                        "quality_score": 0.587
+                    }
+                ]
+            }
+        }
+    },
+    "SZ": {
+        "zone_average_score": 0.8,
+        "documents": {
+            "CBCID ATC Cr. No. 01of 2014.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/SZ/CBCID ATC Cr. No. 01of 2014.pdf",
+                "document_score": 0.786,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3737.983412142735,
+                        "contrast": 37.17422975966764,
+                        "noise": 0.15021867031319094,
+                        "skew_angle": 0.0,
+                        "quality_score": 0.839
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 6256.176506978771,
+                        "contrast": 49.07856673355943,
+                        "noise": 0.20288057308546062,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.734
+                    }
+                ]
+            },
+            "ATC, Cr. No. 04 of 2017.pdf": {
+                "path": "/Users/vidhya/Projects/cb-cid/data/FIR/SZ/ATC, Cr. No. 04 of 2017.pdf",
+                "document_score": 0.814,
+                "pages": [
+                    {
+                        "page": 1,
+                        "sharpness": 3947.4850869273987,
+                        "contrast": 54.23157293637264,
+                        "noise": 0.225480767776608,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.753
+                    },
+                    {
+                        "page": 2,
+                        "sharpness": 6060.862905067995,
+                        "contrast": 63.71004685273583,
+                        "noise": 0.27163127953002336,
+                        "skew_angle": 90.0,
+                        "quality_score": 0.789
+                    },
+                    {
+                        "page": 3,
+                        "sharpness": 3868.695094891632,
+                        "contrast": 55.001582176598916,
+                        "noise": 0.22954331107093323,
+                        "skew_angle": 0.5044034123420715,
+                        "quality_score": 0.899
+                    }
+                ]
+            }
+        }
+    }
+}
