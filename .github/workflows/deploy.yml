@@ -44,6 +44,11 @@ jobs:
       working-directory: ./infra
       run: terraform fmt -check
 
+    - name: Initialize Terraform Providers
+      id: init-providers
+      working-directory: ./infra
+      run: terraform init -backend=false
+
     - name: Terraform Validate
       id: validate
       working-directory: ./infra
