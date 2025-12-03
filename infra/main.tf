@@ -47,20 +47,20 @@ resource "google_compute_address" "static_ip" {
 
 # GPU VM
 module "gpu_vm" {
-  source               = "../terraform/modules/gpu-vm"
-  project_id           = var.project_id
-  region               = var.region
-  zone                 = var.zone
-  network_name         = module.network.network_name
-  subnetwork_name      = module.network.subnet_name
-  vm_name              = "minimax-gpu-vm"
-  machine_type         = "a2-highgpu-1g" # Updated for MiniMax M2
-  gpu_type             = "nvidia-tesla-a100"
-  gpu_count            = 1
-  preemptible          = true
-  boot_disk_size_gb    = 200 # Increased for model weights
-  boot_disk_image      = "ubuntu-2204-jammy-v20240410"
-  static_ip            = google_compute_address.static_ip.address
+  source              = "../terraform/modules/gpu-vm"
+  project_id          = var.project_id
+  region              = var.region
+  zone                = var.zone
+  network_name        = module.network.network_name
+  subnetwork_name     = module.network.subnet_name
+  vm_name             = "minimax-gpu-vm"
+  machine_type        = "a2-highgpu-1g" # Updated for MiniMax M2
+  gpu_type            = "nvidia-tesla-a100"
+  gpu_count           = 1
+  preemptible         = true
+  boot_disk_size_gb   = 200 # Increased for model weights
+  boot_disk_image     = "ubuntu-2204-jammy-v20240410"
+  static_ip           = google_compute_address.static_ip.address
   service_account_email = google_service_account.vm_service_account.email
   
   depends_on = [
