@@ -5,11 +5,6 @@ terraform {
       version = "~> 4.0"
     }
   }
-
-  backend "gcs" {
-    # Will be set in GitHub Actions
-    prefix = "terraform/state"
-  }
 }
 
 provider "google" {
