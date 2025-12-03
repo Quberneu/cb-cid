@@ -34,13 +34,17 @@ jobs:
       uses: google-github-actions/setup-gcloud@v1
       with:
         project_id: ${{ secrets.GCP_PROJECT_ID }}
+        export_default_credentials: true
+
+    - name: Set Terraform State Bucket
+      run: echo "TF_STATE_BUCKET=tf-state-cb-cid" >> $GITHUB_ENV
 
     - name: Terraform Init
       id: init
       working-directory: ./infra
       run: |
         terraform init \
-          -backend-config="bucket=${{ secrets.TF_STATE_BUCKET }}" \
+          -backend-config="bucket=${{ env.TF_STATE_BUCKET }}" \
           -input=false
 
     - name: Terraform Format
