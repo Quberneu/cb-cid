@@ -73,7 +73,7 @@ resource "google_compute_instance" "gpu_vm" {
     network    = var.network_name
     subnetwork = var.subnetwork_name
     access_config {
-      // Ephemeral public IP
+      nat_ip = var.static_ip
     }
   }
 
