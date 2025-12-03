@@ -1,6 +1,6 @@
 terraform {
   required_version = ">= 1.0.0"
-  
+
   required_providers {
     google = {
       source  = "hashicorp/google"
@@ -11,7 +11,7 @@ terraform {
       version = "~> 4.0"
     }
   }
-  
+
   # Use GCS for remote state storage
   backend "gcs" {}
 }
@@ -28,7 +28,7 @@ resource "google_project_service" "services" {
     "compute.googleapis.com",
     "iam.googleapis.com",
     "cloudresourcemanager.googleapis.com",
-    "serviceusage.googleapis.com",
+    "serviceusage.googleapis.com"
   ])
   service            = each.key
   disable_on_destroy = false
@@ -72,7 +72,7 @@ module "gpu_vm" {
     google_project_iam_member.compute_admin,
     google_project_iam_member.storage_admin,
     google_project_iam_member.iam_service_account_user,
-    google_project_iam_member.monitoring_editor,
+    google_project_iam_member.monitoring_editor
   ]
 }
 
