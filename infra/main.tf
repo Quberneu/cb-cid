@@ -33,7 +33,7 @@ resource "google_project_service" "services" {
 
 # Network
 module "network" {
-  source       = "./modules/network"
+  source       = "../terraform/modules/network"
   project_id   = var.project_id
   region       = var.region
   network_name = "minimax-network"
@@ -47,7 +47,7 @@ resource "google_compute_address" "static_ip" {
 
 # GPU VM
 module "gpu_vm" {
-  source              = "./modules/gpu-vm"
+  source              = "../terraform/modules/gpu-vm"
   project_id          = var.project_id
   region              = var.region
   zone                = var.zone
