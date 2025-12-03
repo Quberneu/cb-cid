@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"gpu_vm","Source":"../terraform/modules/gpu-vm","Dir":"../terraform/modules/gpu-vm"},{"Key":"network","Source":"../terraform/modules/network","Dir":"../terraform/modules/network"}]}
