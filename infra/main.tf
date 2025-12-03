@@ -61,14 +61,14 @@ module "gpu_vm" {
   boot_disk_image      = "ubuntu-2204-jammy-v20240410"
   static_ip            = google_compute_address.static_ip.address
   service_account_email = google_service_account.vm_service_account.email
-  
+
   depends_on = [
     google_project_service.services,
     google_service_account.vm_service_account,
     google_project_iam_member.compute_admin,
     google_project_iam_member.storage_admin,
     google_project_iam_member.iam_service_account_user,
-    google_project_iam_member.monitoring_editor
+    google_project_iam_member.monitoring_editor,
   ]
 }
 
