@@ -55,14 +55,12 @@ resource "google_compute_instance" "gpu_vm" {
   tags         = ["deepseek-gpu"]
 
   boot_disk {
-    initialize_params {
-      image = var.boot_disk_image
-      size  = var.boot_disk_size_gb
-      type  = "pd-ssd"
-      project = split("/", var.boot_disk_image)[0]  # Extract project from the image path (e.g., 'ubuntu-os-cloud')
-    }
+  initialize_params {
+    image = var.boot_disk_image
+    size  = var.boot_disk_size_gb
+    type  = "pd-ssd"
   }
-
+}
   network_interface {
     network    = var.network_name
     subnetwork = var.subnetwork_name
