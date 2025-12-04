@@ -76,10 +76,17 @@ module "gpu_vm" {
   ]
 }
 
+# Import existing service account
+import {
+  to = google_service_account.vm_service_account
+  id = "projects/ultra-sunset-472113-j0/serviceAccounts/minimax-vm-sa@ultra-sunset-472113-j0.iam.gserviceaccount.com"
+}
+
 # Service Account
 resource "google_service_account" "vm_service_account" {
   account_id   = "minimax-vm-sa"
   display_name = "Service Account for MiniMax GPU VM"
+  project      = var.project_id
 }
 
 # IAM Role Bindings
