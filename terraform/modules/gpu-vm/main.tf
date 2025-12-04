@@ -59,6 +59,7 @@ resource "google_compute_instance" "gpu_vm" {
       image = var.boot_disk_image
       size  = var.boot_disk_size_gb
       type  = "pd-ssd"
+      project = split("/", var.boot_disk_image)[0]  # Extract project from the image path (e.g., 'ubuntu-os-cloud')
     }
   }
 
