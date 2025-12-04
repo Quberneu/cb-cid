@@ -62,7 +62,7 @@ module "gpu_vm" {
   gpu_count             = 1
   preemptible           = true
   boot_disk_size_gb     = 200 # Increased for model weights
-  boot_disk_image       = "ubuntu-2204-jammy-v20240410"
+  boot_disk_image       = "ubuntu-os-cloud/ubuntu-2204-lts"  # Using Ubuntu 22.04 LTS image family
   static_ip             = google_compute_address.static_ip.address
   service_account_email = google_service_account.vm_service_account.email
 
