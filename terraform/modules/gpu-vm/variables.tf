@@ -49,9 +49,9 @@ variable "boot_disk_size_gb" {
 }
 
 variable "boot_disk_image" {
-  description = "The boot disk image to use for the VM. Use format 'project/family' (e.g., 'ubuntu-os-cloud/ubuntu-2204-lts')"
+  description = "The boot disk image to use for the VM. Use format 'projects/PROJECT/global/images/family/FAMILY'"
   type        = string
-  default     = "ubuntu-os-cloud/ubuntu-2204-lts"  # Ubuntu 22.04 LTS image family
+  default     = "projects/ubuntu-os-cloud/global/images/family/ubuntu-2204-lts"  # Ubuntu 22.04 LTS image family
 }
 
 variable "static_ip" {
