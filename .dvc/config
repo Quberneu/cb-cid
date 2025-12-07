@@ -1,0 +1,5 @@
+[core]
+    remote = gcsremote
+['remote "gcsremote"']
+    url = gs://dvc-bucket-2025/dvcstore
+    projectname = ultra-sunset-472113-j0
