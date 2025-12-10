@@ -1475,18 +1475,17 @@ wheels = [
 
 [[package]]
 name = "timm"
-version = "1.0.22"
+version = "0.6.13"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "huggingface-hub" },
     { name = "pyyaml" },
-    { name = "safetensors" },
     { name = "torch" },
     { name = "torchvision" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/c5/9d/e4670765d1c033f97096c760b3b907eeb659cf80f3678640e5f060b04c6c/timm-1.0.22.tar.gz", hash = "sha256:14fd74bcc17db3856b1a47d26fb305576c98579ab9d02b36714a5e6b25cde422", size = 2382998, upload-time = "2025-11-05T04:06:09.377Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/de/29/4f9b0732a7eb5bd39e5873e52d648d6240b64997dbbaf09cf0996be1bf9c/timm-0.6.13.tar.gz", hash = "sha256:745c54f7b7985a18e08bd66c997b018c1c3fef99bbb8c018879a6f85571782f5", size = 459170, upload-time = "2023-03-24T00:57:44.831Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/d6/14/fc04d491527b774ec7479897f5861959209de1480e4c4cd32ed098ff8bea/timm-1.0.22-py3-none-any.whl", hash = "sha256:888981753e65cbaacfc07494370138b1700a27b1f0af587f4f9b47bc024161d0", size = 2530238, upload-time = "2025-11-05T04:06:06.823Z" },
+    { url = "https://files.pythonhosted.org/packages/f6/c6/806d9b2fa95f418ad700dd206a935d5e8d7355505589dd13a70eb3a45048/timm-0.6.13-py3-none-any.whl", hash = "sha256:ea5aed42f94062a80da414e6f1791cb82012fdb54f7db72c607637914a521345", size = 549137, upload-time = "2023-03-24T00:57:42.273Z" },
 ]
 
 [[package]]
