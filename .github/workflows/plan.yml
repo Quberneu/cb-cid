@@ -45,12 +45,19 @@ jobs:
       run: |
         terraform init \
           -backend-config="bucket=${{ env.TF_STATE_BUCKET }}" \
-          -input=false
+          -backend-config="prefix=terraform/state" \
+          -input=false \
+          -upgrade
 
     - name: Terraform Format
       id: fmt
       working-directory: ./infra
       run: terraform fmt -check
+
+    - name: Initialize Terraform Providers
+      id: init-providers
+      working-directory: ./infra
+      run: terraform init -backend=false
 
     - name: Terraform Validate
       id: validate

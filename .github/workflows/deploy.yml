@@ -10,8 +10,8 @@ permissions:
   'id-token': 'write'
 
 jobs:
-  terraform-apply:
-    name: 'Terraform Apply'
+  terraform-deploy:
+    name: 'Terraform Deploy'
     runs-on: ubuntu-latest
     environment: production
     
@@ -23,6 +23,7 @@ jobs:
       uses: hashicorp/setup-terraform@v2
       with:
         terraform_wrapper: false
+        terraform_version: 1.7.5
 
     - name: Configure GCP Credentials
       uses: google-github-actions/auth@v1
@@ -39,6 +40,23 @@ jobs:
     - name: Set Terraform State Bucket
       run: echo "TF_STATE_BUCKET=tf-state-cb-cid" >> $GITHUB_ENV
 
+    - name: Clean up Terraform
+      working-directory: ./infra
+      run: |
+        rm -rf .terraform
+        rm -f .terraform.lock.hcl
+        rm -f terraform.tfstate*
+
+    - name: Initialize Terraform
+      id: init
+      working-directory: ./infra
+      run: |
+        terraform init \
+          -backend-config="bucket=${{ env.TF_STATE_BUCKET }}" \
+          -backend-config="prefix=terraform/state" \
+          -input=false \
+          -upgrade
+
     - name: Terraform Format
       id: fmt
       working-directory: ./infra
@@ -49,25 +67,21 @@ jobs:
       working-directory: ./infra
       run: terraform validate -no-color
 
-    - name: Terraform Init
-      id: init
+    - name: Terraform Plan
+      id: plan
       working-directory: ./infra
       run: |
-        terraform init \
-          -backend-config="bucket=${{ secrets.TF_STATE_BUCKET }}" \
-          -input=false
-
-    - name: Download Terraform Plan
-      uses: actions/download-artifact@v4
-      with:
-        name: tfplan
-        path: infra/
+        terraform plan \
+          -input=false \
+          -var="project_id=${{ secrets.GCP_PROJECT_ID }}" \
+          -var="region=${{ secrets.GCP_REGION || 'us-central1' }}" \
+          -var="zone=${{ secrets.GCP_ZONE || 'us-central1-a' }}" \
+          -out=tfplan
 
     - name: Terraform Apply
       id: apply
       working-directory: ./infra
-      run: |
-        terraform apply -auto-approve tfplan
+      run: terraform apply -auto-approve tfplan
 
     - name: Get VM IP
       id: get-ip
@@ -76,12 +90,3 @@ jobs:
         IP=$(terraform output -raw vm_external_ip)
         echo "VM_IP=$IP" >> $GITHUB_ENV
         echo "API_ENDPOINT=https://$IP" >> $GITHUB_ENV
-
-    - name: Update Deployment Status
-      uses: bobheadxi/deployments@v1
-      with:
-        step: finish
-        status: ${{ job.status }}
-        env: production
-        token: ${{ secrets.GITHUB_TOKEN }}
-      if: always()
