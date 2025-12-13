@@ -1,0 +1,52 @@
+[
+  {
+    "model": "DeepSeek-R1-Distill-Llama-8B",
+    "text_length_llm": 4362,
+    "text_length_truth": 9826,
+    "word_count_llm": 406,
+    "word_count_truth": 1171,
+    "semantic_similarity": 37.72837817668915,
+    "rouge_l_score": 35.60311284046693,
+    "content_completeness": 34.67122117847993
+  },
+  {
+    "model": "Llama-3.1-8B-Instruct",
+    "text_length_llm": 4398,
+    "text_length_truth": 9826,
+    "word_count_llm": 499,
+    "word_count_truth": 1171,
+    "semantic_similarity": 28.95795702934265,
+    "rouge_l_score": 42.039542143600414,
+    "content_completeness": 42.6131511528608
+  },
+  {
+    "model": "MiniMax-M2",
+    "text_length_llm": 8713,
+    "text_length_truth": 9826,
+    "word_count_llm": 1045,
+    "word_count_truth": 1171,
+    "semantic_similarity": 40.66672623157501,
+    "rouge_l_score": 58.82352941176471,
+    "content_completeness": 89.23996584116139
+  },
+  {
+    "model": "Qwen2.5-7B-Instruct",
+    "text_length_llm": 8370,
+    "text_length_truth": 9826,
+    "word_count_llm": 932,
+    "word_count_truth": 1171,
+    "semantic_similarity": 25.343364477157593,
+    "rouge_l_score": 26.01626016260163,
+    "content_completeness": 79.59009393680616
+  },
+  {
+    "model": "gpt-oss-20b",
+    "text_length_llm": 9247,
+    "text_length_truth": 9826,
+    "word_count_llm": 1047,
+    "word_count_truth": 1171,
+    "semantic_similarity": 35.96524000167847,
+    "rouge_l_score": 60.89068825910932,
+    "content_completeness": 89.41076003415884
+  }
+]
